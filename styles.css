@@ -2,6 +2,11 @@ html{
     background-color: black;
     padding: 30px;
 }
+body{
+    width: 980px;
+    display: block;
+    margin: 0 auto;
+}
 h1, h2, h3, ul, p{
     margin: 0;
 }

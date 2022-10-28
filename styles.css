@@ -47,3 +47,10 @@ h1{
 .describe{
     width: 350px;
 }
+button{
+    background-color: #3382f6;
+    color: #F9FAF8;
+    margin: 5px;
+    padding: 5px 12px;
+    font-weight: bold;
+}

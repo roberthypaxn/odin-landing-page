@@ -103,6 +103,9 @@ blockquote{
     font-style: italic;
     font-weight: light;
 }
+blockquote>p{
+    padding-bottom: 12px;
+}
 cite{
     font-size: 20px;
 }

@@ -10,3 +10,7 @@ h1, h2, h3, ul, p{
     justify-content: space-around;
     align-items: center;
 }
+.logo{
+    font-size: 24px;
+    color: #F9FAF8;
+}

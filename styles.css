@@ -20,3 +20,6 @@ h1, h2, h3, ul, p{
     width: 450px;
     list-style: none;
 }
+a{
+    text-decoration: none;
+}

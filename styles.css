@@ -134,3 +134,8 @@ cite{
     justify-content: space-around;
     align-items: center;
 }
+/*--------------------------------------------------*/
+footer{
+    text-align: center;
+    padding: 40px;
+}

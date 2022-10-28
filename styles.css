@@ -117,6 +117,9 @@ cite{
 .end-sec{
     padding: 50px;
     background-color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 .end{
     background-color: #3382f6;

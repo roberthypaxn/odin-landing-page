@@ -68,6 +68,7 @@ button{
     padding: 5px 12px;
     font-weight: bold;
 }
+/*------------------------------------------------*/
 main{
     background-color: white;
 }
@@ -111,4 +112,9 @@ cite{
     display: flex;
     justify-content: center;
     align-items: center;
+}
+/*-------------------------------------------------------*/
+.end-sec{
+    padding: 50px;
+    background-color: white;
 }

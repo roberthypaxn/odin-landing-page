@@ -123,4 +123,7 @@ cite{
     height: 100px;
     width: 750px;
     color: #F9FAF8;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
 }

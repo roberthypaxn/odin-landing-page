@@ -84,3 +84,8 @@ main{
     border: 3px solid #3382f6;
     border-radius: 10px;
 }
+.description{
+    text-align: center;
+    font-size: 19px;
+    color: #1f2937;
+}

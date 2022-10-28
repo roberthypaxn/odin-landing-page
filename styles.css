@@ -4,3 +4,6 @@ h1, h2, h3, ul, p{
 .header-links, header, footer{
     background-color: #1f2937;
 }
+.header-links{
+    padding: 20px;
+}

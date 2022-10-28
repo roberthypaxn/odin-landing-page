@@ -6,4 +6,7 @@ h1, h2, h3, ul, p{
 }
 .header-links{
     padding: 20px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
 }

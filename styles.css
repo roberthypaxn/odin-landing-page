@@ -14,3 +14,9 @@ h1, h2, h3, ul, p{
     font-size: 24px;
     color: #F9FAF8;
 }
+.links{
+    display: flex;
+    gap: 40px;
+    width: 450px;
+    list-style: none;
+}

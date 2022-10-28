@@ -114,6 +114,10 @@ cite{
     align-items: center;
 }
 /*-------------------------------------------------------*/
+#button2{
+    border: 2px solid #F9FAF8;
+    border-radius: 4px;
+}
 .end-sec{
     padding: 50px;
     background-color: white;

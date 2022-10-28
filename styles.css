@@ -105,3 +105,10 @@ blockquote{
 cite{
     font-size: 20px;
 }
+.quote{
+    background-color: #e5e7eb;
+    height: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
